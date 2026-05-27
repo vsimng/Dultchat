@@ -1,6 +1,11 @@
-flutter_dultchat/
- ├── android/
- ├── ios/
- ├── lib/
- ├── pubspec.yaml
- ├── main.dart
+flutter_dultchat/.github/workflows/flutter_build.yml 
+check_circle
+ 
+flutter_dultchat/codemagic.yaml 
+check_circle
+ 
+flutter_dultchat/.gitignore 
+check_circle
+ 
+flutter_dultchat/README.md 
+check_circle
